@@ -1,4 +1,11 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=200&section=header&text=Telehealth+Network&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Palapye+&+Serowe+%C2%B7+BIUST&descAlignY=56&descAlign=50)
+
 # District Telehealth And Emergency Communication Network
+
+> QoS-aware network simulation connecting 14 rural health facilities across Palapye and Serowe to district hospitals — real-time Streamlit dashboard with routing, propagation, traffic engineering, and failure scenario modelling.
+
+![Last Commit](https://img.shields.io/github/last-commit/geranimoekia/District-Telehealth-And-Emergency-Communication-Network?style=for-the-badge&color=0e75b6)
+![License](https://img.shields.io/github/license/geranimoekia/District-Telehealth-And-Emergency-Communication-Network?style=for-the-badge&color=brightgreen)
 
 A QoS-aware network simulation and real-time monitoring dashboard for a district-level telehealth and emergency communication network serving clinics and hospitals across the Palapye and Serowe districts of Botswana.
 
