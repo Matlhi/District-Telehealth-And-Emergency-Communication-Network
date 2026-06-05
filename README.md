@@ -2,7 +2,7 @@
 
 # District Telehealth And Emergency Communication Network
 
-> QoS-aware network simulation connecting 14 rural health facilities across Palapye and Serowe to district hospitals — real-time Streamlit dashboard with routing, propagation, traffic engineering, and failure scenario modelling.
+> QoS-aware network simulation connecting 14 rural health facilities across Palapye and Serowe to district hospitals - real-time Streamlit dashboard with routing, propagation, traffic engineering, and failure scenario modelling.
 
 ![Last Commit](https://img.shields.io/github/last-commit/geranimoekia/District-Telehealth-And-Emergency-Communication-Network?style=for-the-badge&color=0e75b6)
 ![License](https://img.shields.io/github/license/geranimoekia/District-Telehealth-And-Emergency-Communication-Network?style=for-the-badge&color=brightgreen)
@@ -25,7 +25,7 @@ A QoS-aware network simulation and real-time monitoring dashboard for a district
 
 ## Overview
 
-This project designs, simulates, and evaluates a multi-site wireless network that connects rural health facilities to district hospitals for telehealth consultations, remote patient monitoring (IoT telemetry), and emergency communications. It models realistic radio propagation, backhaul link budgets, traffic engineering, and Quality of Service (QoS) guarantees — then surfaces everything in an interactive Streamlit dashboard.
+This project designs, simulates, and evaluates a multi-site wireless network that connects rural health facilities to district hospitals for telehealth consultations, remote patient monitoring (IoT telemetry), and emergency communications. It models realistic radio propagation, backhaul link budgets, traffic engineering, and Quality of Service (QoS) guarantees - then surfaces everything in an interactive Streamlit dashboard.
 
 ---
 
@@ -70,7 +70,7 @@ Traffic growth projections use per-class CAGRs: Telemetry 25%, Voice 10%, Video 
 | Page | Description |
 |------|-------------|
 | Overview | Gauges, radar chart, 5-year utilisation forecast, upgrade timeline |
-| Network Map | Live map with real GPS coordinates — click any marker for site details |
+| Network Map | Live map with real GPS coordinates - click any marker for site details |
 | QoS Metrics | Delay KPIs, Erlang B blocking rates, signaling load per site |
 | Stress & Breaking Point | Interactive load slider, breaking-point sweep (video fails first at 1.25×, voice at 1.5×) |
 | Forecast & Upgrades | 5-year capacity forecast, three upgrade strategies with CAPEX comparison |
@@ -151,6 +151,6 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## Academic Context
 
-**Course:** TELE 527 — Telecommunications Network Planning and Design  
+**Course:** TELE 527 - Telecommunications Network Planning and Design  
 **Institution:** Botswana International University of Science and Technology (BIUST)  
 **Group:** PBL Group 1
