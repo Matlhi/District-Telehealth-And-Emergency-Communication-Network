@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=200&section=header&text=Telehealth+Network&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Palapye+&+Serowe+%C2%B7+BIUST&descAlignY=56&descAlign=50)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=200&text=Telehealth+Network&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Palapye+&+Serowe+%C2%B7+BIUST&descAlignY=56&descAlign=50)
 
 # District Telehealth And Emergency Communication Network
 
