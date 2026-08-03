@@ -2,7 +2,7 @@
 
 # District Telehealth And Emergency Communication Network
 
-> QoS-aware network simulation connecting 14 rural health facilities across Palapye and Serowe to district hospitals - real-time Streamlit dashboard with routing, propagation, traffic engineering, and failure scenario modelling.
+> QoS-aware network simulation connecting 14 rural health facilities across Palapye and Serowe to district hospitals - real-time Streamlit dashboard with routing, propagation, traffic engineering and failure scenario modelling.
 
 ![Last Commit](https://img.shields.io/github/last-commit/geranimoekia/District-Telehealth-And-Emergency-Communication-Network?style=for-the-badge&color=0e75b6)
 ![License](https://img.shields.io/github/license/geranimoekia/District-Telehealth-And-Emergency-Communication-Network?style=for-the-badge&color=brightgreen)
